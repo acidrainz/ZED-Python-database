@@ -1,3 +1,4 @@
+# This Project will be updated in the comming release you will be able to use Database Models and database releationships
 # ZED-Python-database
 a python database helper to make the CRUD very easy ... Enjoy!
 
