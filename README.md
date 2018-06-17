@@ -1,4 +1,7 @@
-# This Project will be updated in the comming release you will be able to use Database Models and database releationships
+# The New Project
+```python
+https://github.com/C0deBot/py-db-with-models
+```
 # ZED-Python-database
 a python database helper to make the CRUD very easy ... Enjoy!
 
